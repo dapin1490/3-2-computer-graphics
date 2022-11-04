@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638031464691486553
-    m_Hash: 228985270
+      ticks: 638031477295032157
+    m_Hash: 3568485287
   m_LockFileStatus:
     m_FilePath: C:/Users/Administrator/Documents/GitHub/3-2-computer-graphics/project/mid/mid
       project/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638031464725502127
-    m_Hash: 1587512919
+      ticks: 638031477295311408
+    m_Hash: 2936953707
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -293,13 +293,13 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.14
+    - packageId: com.unity.ide.visualstudio@2.0.16
       testable: 0
       isDirectDependency: 1
-      version: 2.0.14
+      version: 2.0.16
       source: 1
       resolvedPath: C:\Users\Administrator\Documents\GitHub\3-2-computer-graphics\project\mid\mid
-        project\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
+        project\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -381,13 +381,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637782923640000000
+      datePublishedTicks: 637914298680000000
       documentationUrl: 
-      hasRepository: 0
+      hasRepository: 1
       repository:
-        type: 
-        url: 
-        revision: 
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
+        revision: c01855ef6461b821ab0226135e96a4ee86de96be
         path: 
     - packageId: com.unity.ide.vscode@1.2.4
       testable: 0
