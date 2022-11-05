@@ -69,8 +69,11 @@
     <None Include="Assets\3D Objects\T-Rex\Textures Quide.txt" />
     <None Include="Assets\Shaders\BrightnessControl.shader" />
     <None Include="Assets\Shaders\MetalSmooth.shader" />
+    <None Include="Assets\Shaders\LightVecN2Pass.shader" />
+    <None Include="Assets\Shaders\LightVector.shader" />
     <None Include="Assets\Shaders\AlphaTexture.shader" />
     <None Include="Assets\Five Seamless Tileable Ground Textures\read me.txt" />
+    <None Include="Assets\Shaders\TwoPassShad.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
