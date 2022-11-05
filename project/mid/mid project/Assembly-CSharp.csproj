@@ -59,9 +59,17 @@
     <Compile Include="Assets\Scenes\Outdoor scene animation\OpenDoor.cs" />
     <Compile Include="Assets\Scenes\Outdoor scene animation\SlideDoor.cs" />
     <Compile Include="Assets\Scenes\TeleportPortal.cs" />
+    <Compile Include="Assets\Scenes\Indoor scene animation\WindMillControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Shaders\WaterFall.shader" />
+    <None Include="Assets\Shaders\Grey.shader" />
+    <None Include="Assets\Shaders\NormalMap.shader" />
+    <None Include="Assets\Shaders\Lerp.shader" />
+    <None Include="Assets\3D Objects\T-Rex\Textures Quide.txt" />
+    <None Include="Assets\Shaders\BrightnessControl.shader" />
+    <None Include="Assets\Shaders\MetalSmooth.shader" />
+    <None Include="Assets\Shaders\AlphaTexture.shader" />
     <None Include="Assets\Five Seamless Tileable Ground Textures\read me.txt" />
   </ItemGroup>
   <ItemGroup>
